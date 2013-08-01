@@ -71,6 +71,7 @@ class Zend_Gdata_Analytics_DataQuery extends Zend_Gdata_Query
     const DIMENSION_VISIT_LENGTH = 'ga:visitLength';
     const DIMENSION_VISITOR_TYPE = 'ga:visitorType';
     const DIMENSION_WEEK = 'ga:week';
+    const DIMENSION_ISO_WEEK = 'ga:isoWeek';
     const DIMENSION_YEAR = 'ga:year';
 
     // D2. Campaign
